@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🐞 I'm QA Engineer
+- 🐞 I'm QA Engineer (since 2019)
 - 🎓 I'm taking a course in automation testing (Java + Selenide) at QA.GURU now
 - 💬 How to reach me: Telegram @aloe_lavi
 
